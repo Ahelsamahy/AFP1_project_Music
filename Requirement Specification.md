@@ -10,11 +10,13 @@ Creating website where you can see artists and their new albums with also the ly
 
 -**Artists:** all the artists on the website if you don't know which one to choose from
 
--**Hit Songs:** highest 10 played songs on the site with the artist and the rating for each one 
+-**Hit Songs:** highest 10* played songs on the site with the artist and the rating for each one 
+
+*highest 10 played songs in the users liked genres
 
 -**Login:** you can create your own account or just login with google or Facebook as you wish
 
--**Profile:** view your own profile and your favorite artists that you are subscribed to them
+-**Profile:** view your own profile and your favorite artists that you are subscribed to
 
 -**About us:** the team who worked on the project and short note about them
 
