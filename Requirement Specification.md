@@ -16,6 +16,8 @@ Creating website where you can see artists and their new albums with also the ly
 
 -**Login:** you can create your own account or just login with google or Facebook as you wish
 
+- Account linking with music platforms (as Spotify, Apple Music, SoundCloud, and so on...) would be an interesting addition. Not a necessary, tho
+
 -**Profile:** view your own profile and your favorite artists that you are subscribed to
 
 -**About us:** the team who worked on the project and short note about them
