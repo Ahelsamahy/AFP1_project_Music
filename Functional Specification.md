@@ -20,3 +20,21 @@ Creating website where you can see artists and their new albums with also the ly
 
 -**About us:** the team who worked on the project and short note about them
 
+
+# 3. Standards & Laws
+## General Standards:
+Application must have these general standards:
+
+1.  Must have a simple user interface that can work with all ages.
+2.  Must be easy for new user to get used to it.
+3.  Must use the industry best practices in showing album and artists to user.
+
+
+## Browser requirements:
+-   Google Chrome
+-   Microsoft Edge
+-   Mozilla Firefox
+-   Microsoft Internet Explorer 10.0+
+
+## Privacy and Cookie Policy
+Obligation to EU privacy laws, it is our responsibility to inform users about how we handle their personal data. For this reason we will provide a Privacy Policy and a Cookie Policy for users to read. In the functional specification it will be explained in details.
