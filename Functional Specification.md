@@ -44,3 +44,7 @@ Obligation to EU privacy laws, it is our responsibility to inform users about ho
 2. Bundling model: with monthly or annually access you will get discount on the merchandise you buy that will be provided by our partner stores.
 
 3. Freemium model: there will be some ads across the website for free users and also during videos of the artists 
+
+# 5. Current business model
+As for right now for the team, we are still learning how to handle the back-end side of the website like login and holding data of each user like favorite artist so this project will have a new approach for us in way to integrate between back-end with front-end.
+
