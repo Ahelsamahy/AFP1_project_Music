@@ -93,3 +93,5 @@ Bootstrap: help in designing website faster and easier. It includes HTML and CSS
 
 PHP : to manage dynamic content, databases, session tracking, even build entire e-commerce sites
 
+# 9. Script
+Homepage should be simple one with just what the website offer of various artists and partners that we have and then the 3 bundles that are offered with special discount to students, if the user already logged in then they will see what is new from their favorite artists with option to react to it or even view the full topic or interview to read all of it, which will include the name of who wrote it, when and last modification.
