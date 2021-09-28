@@ -79,5 +79,17 @@ As for right now for the team, we are still learning how to handle the back-end 
 
 # 7.Overview
 Goal of the project is to deliver a new of kind website that can connect between fans and their favorite artists to keep up with new interviews and exclusive behind the scenes with their latest videos.
-project will be devolved with HTML,CSS and bootstrap for front-end, for the back-end will be php
+
+project will be devolved with HTML,CSS and Bootstrap for front-end, for the back-end will be PHP with JavaScript.
+
+# 8. Glossary
+HTML: Hypertext Markup Language, the foundation of any website.
+
+CSS:  for describing the presentation of Web pages, including colors, layout, and fonts.
+
+JavaScript:  add dynamic behavior to the web page and special effects.
+
+Bootstrap: help in designing website faster and easier. It includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation.
+
+PHP : to manage dynamic content, databases, session tracking, even build entire e-commerce sites
 
