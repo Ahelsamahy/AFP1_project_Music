@@ -48,7 +48,15 @@ Obligation to EU privacy laws, it is our responsibility to inform users about ho
 # 5. Requested business model
 As for right now for the team, we are still learning how to handle the back-end side of the website like login and storing data of each user like favorite artist so this project will have a new approach for us in way to integrate between back-end with front-end.
 
-* Homepage to view the bundle that we have so the user can choose between 3 of bundles that can fit
-* Dashboard for the user to see the profile picture and know what genre they like
-* Each artist's profile page will have biography and top listened music and the genre
-* Friendly user interface so the website can be used be different ages
+* Homepage to view the bundle that we have so the user can choose between 3 of bundles that can fit.
+* Dashboard for the user to see the profile picture and know what genre they like.
+* Each artist's profile page will have biography and top listened music and the genre.
+* Friendly user interface so the website can be used be different ages.
+
+
+# 6. Request List
+-The following table shows how the Database will work with :
+  * The user's data like profile picture and favorite genre
+  * The interview or posts comments and likes
+  * Search in the whole database for posts 
+  * Latest editing of a post
