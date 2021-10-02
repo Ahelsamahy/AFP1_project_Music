@@ -35,6 +35,10 @@ Some additional information:
 
 - We are responsible for a website, that introduces musicians with their songs, lyrics, bio etc.
 
+- Show latest news about famous and most liked artists
+
+- Enable commenting feature on each news article
+
 - Develop a platform where users can choose from plenty of songs/artists.
 
 - Get a long description about the chosen artist/song.
