@@ -48,7 +48,7 @@ Some additional information:
 # 2. Project plan
 ## 2.1 Roles and responsibilities
 ### Backend developer:
-Backend developers are responsible for developing the server-side code, they create the website's functions, and the data structures. They mainly use PHP codes and nodejs.
+Backend developers are responsible for developing the server-side code, they create the website's functions, and the data structures. They mainly use PHP codes.
 
 ### Frontend developer:
 Frontend developers implement the visual elements that users see and interact with in the website. They make sure that users have no trouble navigating the website. They use HTML, CSS, JavaScript codes.
