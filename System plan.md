@@ -57,9 +57,19 @@ Frontend developers implement the visual elements that users see and interact wi
 Database developers are responsible for the storage and management of the data we use in this website. 
 
 ## 2.2 Team members
-
+Ahmed Mahfouz - Frontend developer, Team leader
+Oleg Dragoi - Database developer
+Csanádi Balázs Tóbiás - Senior Developer
+Fügedi Csaba - Senior Developer
+Meghwar Om Parkash - Senior Developer
+Kungl Rebeka - Senior Developer
+Ádám Ligárt - Senior Developer
+Molnár Levente - Senior Developer
 
 ## 2.3 Project schedule
+- 2021/09/21 System plan document
+- 2021/09/28 Development start
+- 2021/10/04 Development finish
 
 
 ## 2.4 Milestones
