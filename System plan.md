@@ -2,7 +2,8 @@
 
 ## 1.1 About this document
 
-Our team accepted a commission to make a fully functional website for people who are interested in music. In this online webshop they can start their of becoming a singer or just to practice their hobby. This document describes the project in detail, including the website's functionality, the team members, their roles and responsibilities, technologies we use in this project, development plans etc.
+Our team accepted a commission to make a fully functional website for people who are interested in music. In this online webshop they can see artists and their new albums, with the lyrics for their top songs. They also can become musicians via creating their own music with our shop that includes all music instruments.
+This document describes the project in detail, including the website's functionality, the team members, their roles and responsibilities, technologies we use in this project, development plans etc.
 
 ## 1.2 Project Overview:
 
@@ -43,7 +44,7 @@ Some additional information:
 # 2. Project plan
 ## 2.1 Roles and responsibilities
 ### Backend developer:
-Backend developers are responsible for developing the server-side code, they create the website's functions, and the data structures. They mainly use PHP codes and nodejs with Laravel.
+Backend developers are responsible for developing the server-side code, they create the website's functions, and the data structures. They mainly use PHP codes and nodejs.
 
 ### Frontend developer:
 Frontend developers implement the visual elements that users see and interact with in the website. They make sure that users have no trouble navigating the website. They use HTML, CSS, JavaScript codes.
@@ -65,11 +66,11 @@ Database developers are responsible for the storage and management of the data w
 ### Web framework – Bootstap
 Bootstap will be used to make the dynamic layout of the webshop, so it works smoothly on all resolutions in the browsers.
 
-### Web server – Apache - Laravel
-An Apache web server will be used to store the database information, in which we will store the database writen in MySQL structure and Laravel.
+### Web server – Apache
+An Apache web server will be used to store the database information, in which we will store the database writen in MySQL structure.
 
 ### Programming language – PHP
-We are going to write our code in PHP, since it is the most used programming language for building websites. The PHP version which is going to be used is PHP 7.4 or higher since Laravel needs that environment.
+We are going to write our code in PHP, since it is the most used programming language for building websites.
 
 ### Communication – Discord, GitHub, Trello
 - Discord is a communication software made for voice chat. Since Discord is free we are gonna use this software, because it is not sure that all of us will be in the same room when our company develops the webshop the client asked for. With this we will be able to communicate in real time with our coding partners, and since it has a normal chat function that follows the written messages, it will be easy to trace back with the problems that are brought up during development.
@@ -78,7 +79,7 @@ We are going to write our code in PHP, since it is the most used programming lan
 
 - Trello is a free web-based Kanban-style list-making application. We can create our task boards with several columns and move the tasks between them. Typically columns include task statuses: To Do, In Progress and Done.
 
-### Data structure store – Laravel
+### Data structure store – MySQL
 The database structure will be written accordig to the Laravel standards.
 
 
