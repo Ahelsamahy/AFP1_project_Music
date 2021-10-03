@@ -174,35 +174,23 @@ This website has two user level:
 
 ## 5.2 Use cases and scenarios
 
-Customer:
-
-- Able to register a new account
-
-- Able to log in to their account
-
-- Able to log out from their account
+Guest:
 
 - Able to see the home page
 
-- Able to see the songs lists according to the category
+- Able to see the articles lists according to the category
 
-- Can filter through the songs
+- Can open an article and see it's detailed description page
 
-- Can open a song and see it's detailed description page
+Moderator:
 
-- Able to add songs to their list
+- Has all the guest privileges
 
-- Able to see thir profile
+- Able to add a new article to all of the categories
 
-Manager:
+- Can modify an existing article
 
-- Has all the user privileges
-
-- Able to add a new songs to all of the categories
-
-- Can modify an existing song
-
-- Able to remove a song
+- Able to remove a article
 
 # 6. Physical environments
 This application was made for web platform and should be used with the supported web browsers.
