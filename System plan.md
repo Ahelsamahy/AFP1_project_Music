@@ -252,11 +252,9 @@ Songs are songs that are being stored in the website.
 - **img:** A path that shows the location of and image of the song/album cover
 - **genre:** The main genre of the product. 
 
-
-## 8.2 Helper tables
-
-
-## 8.3 Laravel Implementation
+<p align="center">
+<img src="../Figures/Database_plan.png">
+</p>
 
 # 9. Implementation plan
 During the implementation we will work mainly with php, html and css codes. First steps are the database implementation with all the tables, and after that we can work on the website itself. For all the pages, the backend will be implemented first, since this website uses the database heavily and most of the website content stored there. After the backend, the frontend will be implemented using the backend data. The frontend uses bootstrap framework with the grid layout system.
