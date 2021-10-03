@@ -101,7 +101,7 @@ Recommended version: Latest Stable
 # 3. Business model
 
 <p align="center">
-<img src="../Figures/Bussines_plan.png">
+<img src="./Figures/Bussines_plan.png">
 </p>
 
 # 4. Requirements
@@ -257,7 +257,7 @@ Songs are songs that are being stored in the website.
 - **genre:** The main genre of the product. 
 
 <p align="center">
-<img src="../Figures/Database_plan.png">
+<img src="./Figures/Database_plan.png">
 </p>
 
 # 9. Implementation plan
