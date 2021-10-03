@@ -106,23 +106,21 @@ Recommended version: Latest Stable
 
 Using common website elements and user management system:
 
-- Register: The users should have the opportunity to sign up. This way they are able to shop and use the shopping cart. After registration they will have an own Profile Page.
+- Register: The users should have the opportunity to sign up. After registration they will have an own Profile Page.
 
-- Logging in and out: Editors and users should be able to log in and out.
+- Logging in and out: Editors should be able to log in and out.
 
 - Possibility to change password: Users' passwords should be changeable.
 
 - Profile details: Users should be able to see and modify the details on their Profile Page.
 
-Webshop functions:
+Website functions:
 
-- Showing cards: Users can easily separate the songs and their descriptions if we show them as cards.
+- Showing cards: Users can easily separate the articles if we show them as cards.
 
 - Listing items, browsing: The user should be able to look around between the songs and filter them on the website.
 
-- Favourite list: The client should be able to add songs to their list or remove them if necessary.
-
-- Song details: The customer should be able to see our songs' details in a separate page.
+- Article details: The customer should be able to see our articles in a separate page.
 
 ## 4.2 Non-funtional Requirements
 
