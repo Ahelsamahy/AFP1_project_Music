@@ -239,22 +239,21 @@ Users are registered accounts on the website. Their data of favorite songs is st
 - **id:** A unique identification number that is assigned at registration to every user. 
 - **username:** A unique name the user chooses for their account name, it is required for user to log in to their account
 - **password:** A one way hashed password that is needed to log in to an account.
-- **first_name:** First name of the user as filled in the registration form
-- **last_name:** Last name of the user as filled in the registration form
 - **email:** Email address of the user. It's used for sending order and account information.
-- **birthdate:** Date of birth of the user. 
 - **Regdate:** Date of registration. Filled out automatically.
-- **Level:** Permission level of the user. More levels can be added later.
+- **user_lvl:** Permission level of the user. More levels can be added later.
 	- 0 = User
 	- 1 = Moderator
 	
-### Songs
-Songs are songs that are being stored in the website.
+### Articles
+Articles are news that are being stored in the website.
 - **id:** An unique identification number, that is automatically incremented.
-- **name:** The name of the product.
-- **author:** The performer of the product.
-- **img:** A path that shows the location of and image of the song/album cover
-- **genre:** The main genre of the product. 
+- **author:** The performer of the article.
+- **title:** The title of the article.
+- **img:** A path that shows the location of and image of the article cover.
+- **category:** The main category of the article. 
+- **regdate:** The article posting date. 
+- **content:** The article text.
 
 <p align="center">
 <img src="./Figures/Database_plan.png">
