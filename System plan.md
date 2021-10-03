@@ -100,6 +100,10 @@ Recommended version: Latest Stable
 
 # 3. Business model
 
+<p align="center">
+<img src="../Figures/Bussines_plan.png">
+</p>
+
 # 4. Requirements
 
 ## 4.1 Functional Requirements
