@@ -168,7 +168,7 @@ Supported browsers:
 
 This website has two user level:
 
-- Customer
+- Guest
 
 - Moderator
 
