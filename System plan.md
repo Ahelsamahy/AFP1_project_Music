@@ -202,7 +202,7 @@ This application was made for web platform and should be used with the supported
 - Visual Studio Code
 - Discord
 - Markdown Monster
-- Stackedit.io
+- app.diagrams.net
 
 
 **Hardware and Network:**
@@ -213,7 +213,6 @@ This application was made for web platform and should be used with the supported
 - Sublime Text Editor
 
 **Technologies:**
-- Laravel: Web development framework, it is used to build dynamic webiste quickly.
 - Bootstrap: Web framework, it is used to make the dynamic layout of the website. It works well with different resolutions and browsers.
 - Apache: The Apache web server is used to store, process and deliver the webpage to the browsers.
 - PHPMyAdmin: Administration tool for MySQL and MariaDB database server, where we store the data of our website, including editors account data and the articles.
