@@ -160,7 +160,7 @@ Supported browsers:
 
 - Creative front-end palette
 
-- Based on Laravel and PHP
+- Based on MySQL and PHP
 
 # 5. Functions
 
