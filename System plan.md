@@ -260,21 +260,5 @@ Articles are news that are being stored in the website.
 </p>
 
 # 9. Implementation plan
-During the implementation we will work mainly with php, html and css codes. First steps are the database implementation with all the tables, and after that we can work on the website itself. For all the pages, the backend will be implemented first, since this website uses the database heavily and most of the website content stored there. After the backend, the frontend will be implemented using the backend data. The frontend uses bootstrap framework with the grid layout system.
-# 10. Test plan
+During the implementation we will work mainly with PHP, html and css codes. First steps are the database implementation with all the tables, and after that we can work on the website itself. For all the pages, the backend will (should have been) be implemented first, since this website uses the database heavily and most of the website content stored there. After the backend, the frontend will be implemented using the backend data. The frontend uses bootstrap framework with the grid layout system.
 
-## Test methods
-(Later it will change a lot)
-
-* Database Import
-* Database Reach
-* Logout Reach
-* Carousel Test
-* Genre tree Test (All genres works properly)
-* Login page Test
-* Song page Test
-* Add Cart page Test
-* Forgot password Test
-* Main Page Test
-* Register Page Test
-* Registration Test
