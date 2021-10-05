@@ -1,6 +1,6 @@
 <div class="container">
     <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
-      <a class="d-flex align-items-center mb-3 mb-md-0 text-dark text-decoration-none" href="/">
+      <a class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none" href="/">
         <svg class="bi me-2" width="40" height="32">
           <use xlink:href="#bootstrap" />
         </svg>
