@@ -117,28 +117,9 @@
           <p class="col-lg-12 fs-6">Pied piper is one of kind website that will make it easier to 
             find the latest content about your artist and keep in radar with their new upcoming releases  </p>
         </div>
-        <!-- <div class="col-md-10 mx-auto col-lg-5">
-          <form class="p-4 p-md-5 border rounded-3 bg-light">
-            <div class="form-floating mb-3">
-              <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
-              <label for="floatingInput">Email address</label>
-            </div>
-            <div class="form-floating mb-3">
-              <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
-              <label for="floatingPassword">Password</label>
-            </div>
-            <div class="checkbox mb-3">
-              <label>
-                <input type="checkbox" value="remember-me"> Remember me
-              </label>
-            </div>
-            <button class="w-100 btn btn-lg btn-primary" type="submit">Sign In</button>
-            <hr class="my-4">
-            <small class="text-muted">if you don't have account, you can 
-              <span>  <a href="?P=about_us" >sign up</a></span>.</small>
-            <small class="text-muted">By clicking Sign up, you agree to the terms of use.</small>
-          </form>
-        </div> -->
+        <div class="col-md-5 mx-auto col-lg-4 h-100">
+        <a href="?P=Sign_in" class="w-50 btn btn-lg btn-primary" role="button">Sign in</a>
+        </div> 
       </div>
     </div>
     <div class="b-example-divider"></div>
