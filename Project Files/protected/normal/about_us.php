@@ -15,7 +15,7 @@
   <link href="About us.css" rel="stylesheet">
 
 <body>
-  <div class="container">
+  <!-- <div class="container">
 
     <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
       <a class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark
@@ -26,7 +26,6 @@
         <span class="fs-4">Pied Piper</span>
       </a>
       <ul class="nav nav-pills">
-        <!-- don't forget to change the nav for href here -->
         <li class="nav-item"><a href="./index.html" class="nav-link">Home</a></li>
         <li class="nav-item"><a href="./index.html#Features" class="nav-link">Features</a></li>
         <li class="nav-item"><a href="./index.html#Pricing" class="nav-link">Pricing</a></li>
@@ -35,7 +34,7 @@
         </li>
       </ul>
     </header>
-  </div>
+  </div> -->
   <main>
 
     <div class="container" id="Top">
@@ -214,9 +213,9 @@
       </p>
 
       <!-- ---------------------------------------------------------------------------- -->
-      <footer class="py-3 my-4">
+      <!-- <footer class="py-3 my-4">
         <ul class="nav justify-content-center border-bottom pb-3 mb-3">
-          <!-- also fix nav here -->
+
           <li class="nav-item"><a href="#Top" class="nav-link px-2
           text-muted">Home</a></li>
           <li class="nav-item"><a href="./index.html#Features" class="nav-link px-2
@@ -229,7 +228,7 @@
           text-muted">About us</a></li>
         </ul>
         <p class="text-center text-muted">&copy; 2021 Pied Piper, Inc</p>
-      </footer>
+      </footer> -->
     </div>
   </main>
 

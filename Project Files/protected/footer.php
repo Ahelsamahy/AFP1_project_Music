@@ -6,7 +6,7 @@
         <li class="nav-item"><a href="?P=home#Features" class="nav-link px-2 text-muted">Features</a></li>
         <li class="nav-item"><a href="?P=home#Pricing" class="nav-link px-2 text-muted">Pricing</a></li>
         <li class="nav-item"><a href="?P=home#Sign up" class="nav-link px-2 text-muted">Sign Up</a></li>
-        <li class="nav-item"><a href="./About us.html" class="nav-link px-2 text-muted">About us</a></li>
+        <li class="nav-item"><a href="?P=about_us" class="nav-link px-2 text-muted">About us</a></li>
     </ul>
     <p class="text-center text-muted">&copy; 2021 Pied Piper, Inc</p>
     </footer>
