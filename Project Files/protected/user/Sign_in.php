@@ -41,7 +41,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['login']))
     <button class="w-100 btn btn-lg btn-primary" type="submit">Sign In</button>
     <hr class="my-4">
    <center> <small class="text-muted">if you don't have account, you can 
-      <span>  <a href="?P=about_us" >sign up</a></span>.</small><br>
+      <span>  <a href="?P=Sign_Up" >sign up</a></span>.</small><br>
     <small class="text-muted">By clicking Sign up, you agree to the terms of use.</small> </center>
   </form>
   </div>
