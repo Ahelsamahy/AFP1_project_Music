@@ -111,12 +111,13 @@
     <div class="b-example-divider"></div>
 
     <div class="container col-xl-10 col-xxl-8 px-4 py-5" id="Sign up">
-      <div class="row align-items-center g-lg-5 py-5">
-        <div class="col-lg-7 text-center text-lg-start">
-          <h1 class="display-4 fw-bold lh-1 mb-3">What are you waiting for</h1>
-          <p class="col-lg-10 fs-4">sign up now </p>
+      <div class="row align-items-center g-lg-5  py-5">
+        <div class="col-lg-6 text-center text-lg-start">
+          <h1 class="display-3 fw-bold lh-1 mb-3">Listen and feel the moment with your artist</h1>
+          <p class="col-lg-12 fs-6">Pied piper is one of kind website that will make it easier to 
+            find the latest content about your artist and keep in radar with their new upcoming releases  </p>
         </div>
-        <div class="col-md-10 mx-auto col-lg-5">
+        <!-- <div class="col-md-10 mx-auto col-lg-5">
           <form class="p-4 p-md-5 border rounded-3 bg-light">
             <div class="form-floating mb-3">
               <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
@@ -131,11 +132,13 @@
                 <input type="checkbox" value="remember-me"> Remember me
               </label>
             </div>
-            <button class="w-100 btn btn-lg btn-primary" type="submit">Sign up</button>
+            <button class="w-100 btn btn-lg btn-primary" type="submit">Sign In</button>
             <hr class="my-4">
+            <small class="text-muted">if you don't have account, you can 
+              <span>  <a href="?P=about_us" >sign up</a></span>.</small>
             <small class="text-muted">By clicking Sign up, you agree to the terms of use.</small>
           </form>
-        </div>
+        </div> -->
       </div>
     </div>
     <div class="b-example-divider"></div>
