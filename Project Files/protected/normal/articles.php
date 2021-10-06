@@ -5,7 +5,9 @@
 ?>
 
 <h1 class="h1edit">Articles</h1>
-<hr>
+<center>
+        <hr class="mb-5 mt-3" style="width:15%">
+      </center>
 <div class = "container">
     <?php foreach($articles as $a) : ?>
         <a href="index.php?P=article&A=<?=$a['id']; ?>">
