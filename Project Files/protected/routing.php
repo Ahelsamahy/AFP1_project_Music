@@ -20,8 +20,8 @@ switch($_GET['P']) {
         require_once NORMAL_DIR.'article.php';
         break;
 
-    case 'login':
-        require_once USER_DIR.'login.php';
+    case 'Sign_in':
+        require_once USER_DIR.'Sign_in.php';
         break;
     case 'add_article':
         require_once USER_DIR.'add_article.php';
