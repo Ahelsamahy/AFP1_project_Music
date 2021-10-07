@@ -14,7 +14,7 @@
           <div class="col-12">
             <div class="card card-registration card-registration-2" style="border-radius: 15px;">
               <div class="card-body p-0">
-                <div class="row g-0">
+                <div class="row g-1">
                   <div class="col-lg-6">
                     <div class="p-5">
                       <h3 class="fw-normal mb-5">General Infomation</h3>
@@ -41,8 +41,8 @@
 
                       <div class="mb-4 pb-2">
                         <div class="form-floating">
-                          <input type="text" id="form3Examplev4" class="form-control form-control-lg" placeholder="Position" />
-                          <label class="form-label" for="form3Examplev4">Position</label>
+                          <input type="text" id="form3Examplev4" class="form-control form-control-lg" placeholder="Favourite genre" />
+                          <label class="form-label" for="form3Examplev4">Favourite genre</label>
                         </div>
                       </div>
 
@@ -50,8 +50,8 @@
                         <div class="col-md-6 mb-4 pb-2 mb-md-0 pb-md-0">
 
                           <div class="form-floating">
-                            <input type="text" id="form3Examplev5" class="form-control form-control-lg" placeholder="Business Arena" />
-                            <label class="form-label" for="form3Examplev5">Business Arena</label>
+                            <input type="text" id="form3Examplev5" class="form-control form-control-lg" placeholder="Favourite Artist" />
+                            <label class="form-label" for="form3Examplev5">Favourite Artist</label>
                           </div>
 
                         </div>
@@ -60,7 +60,6 @@
 
                     </div>
                   </div>
-
                   <div class="col-lg-6 bg-white " style="background-color: #0d6efd;">
                     <div class="p-5">
                       <h3 class="fw-normal mb-5">Contact Details</h3>
@@ -134,6 +133,7 @@
                       <div class="form-check d-flex justify-content-start mb-4 pb-3">
                         <input class="form-check-input me-3" type="checkbox" value="" id="form2Example3c" />
                         <label class="form-check-label text-black" for="form2Example3">
+                          <!-- will be added later -->
                           I do accept the <a href="#" class="text-black"><u>Terms and Conditions</u></a> of your site.
                         </label>
                       </div>
