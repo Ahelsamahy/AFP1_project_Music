@@ -83,7 +83,7 @@ Goal of the project is to deliver a new of kind website that can connect between
 project will be devolved with HTML,CSS and Bootstrap for front-end, for the back-end will be PHP with JavaScript.
 
 # 8. Glossary
- The page should have a good overall looking so it will be good for wide range of users to be familiar with without having problem with.
+ The page should have a good overall looking so it will be good for wide range of users to be familiar with without having problem with, this can be done with proper use of navigation bar that should take you to different section in main page then to the important part which is sign in page that must have the option for sign up as the user might have several accounts then article page which shows all the articles in the whole site without any difference between them.
 
 # 9. Script
 Homepage should be simple one with just what the website offer of various artists and partners that we have and then the 3 bundles that are offered with special discount to students, if the user already logged in then they will see what is new from their favorite artists with option to react to it or even view the full topic or interview to read all of it, which will include the name of who wrote it, when and last modification.
