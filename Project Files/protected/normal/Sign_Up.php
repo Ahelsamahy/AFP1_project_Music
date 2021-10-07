@@ -17,7 +17,7 @@
                 <div class="row g-1">
                   <div class="col-lg-6">
                     <div class="p-5">
-                      <h3 class="fw-normal mb-5">General Infomation</h3>
+                      <h3 class="fw-normal mb-5">General Information</h3>
 
 
                       <div class="row">
