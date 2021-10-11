@@ -23,6 +23,10 @@ switch($_GET['P']) {
     case 'Sign_in':
         require_once USER_DIR.'Sign_in.php';
         break;
+
+    case 'logout':
+		IsUserLoggedIn() ? UserLogout(): header('Location: index.php');
+	break;
     case 'Sign_Up':
         require_once NORMAL_DIR.'Sign_Up.php';
         break;
