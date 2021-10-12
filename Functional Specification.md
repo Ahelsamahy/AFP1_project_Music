@@ -35,7 +35,7 @@ Application must have these general standards:
 -   Microsoft Internet Explorer 10.0+
 
 ## Privacy and Cookie Policy
-Obligation to EU privacy laws, it is our responsibility to inform users about how we handle their personal data. For this reason we will provide a Privacy Policy and a Cookie Policy for users to read. In the functional specification it will be explained in details.
+Obligation to EU privacy laws, it is our responsibility to inform users about how we handle their personal data. For this reason we will provide a Privacy Policy and a Cookie Policy for users to read. In the system plan it will be explained in details.
 
 
 # 4. Current business model
